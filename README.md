@@ -18,7 +18,6 @@ This repository is organized into analytical themes, providing reusable, well-do
 3. [Advanced Analytics](#advanced-analytics)
 4. [Who This Is For](#who-this-is-for)
 5. [Key Benefits](#key-benefits)
-6. [Project Roadmap](#project-roadmap)
 
 ---
 
