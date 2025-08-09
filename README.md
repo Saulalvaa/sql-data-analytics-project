@@ -1,4 +1,4 @@
-# 📊 SQL Data Analytics Project
+# 📊 Exploratory Data Analytics Project
 
 [![Author](https://img.shields.io/badge/Author-dannydave-blue)](https://github.com/dannydave)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
