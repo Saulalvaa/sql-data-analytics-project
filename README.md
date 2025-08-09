@@ -67,8 +67,3 @@ Perform deeper analysis to uncover trends, performance patterns, and actionable 
 - Covers both **quick exploration** and **deep business analysis**.
 
 ---
-
-## 🗺 Project Roadmap
-![Project Roadmap](Project%20Roadmap.png)
-
----
