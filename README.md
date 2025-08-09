@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dannydave/sql-data-analytics-project?color=blue)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dannydave/sql-data-analytics-project?color=green)
-![GitHub license](https://img.shields.io/github/license/dannydave/sql-data-analytics-project?color=orange)
 
 A structured collection of **SQL scripts** designed for both **Exploratory Data Analysis (EDA)** and **Advanced Analytics** within relational databases.  
 This repository is organized into analytical themes, providing reusable, well-documented SQL queries to help data professionals quickly explore, segment, and analyze data while following SQL best practices.
