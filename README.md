@@ -67,3 +67,19 @@ Perform deeper analysis to uncover trends, performance patterns, and actionable 
 - Covers both **quick exploration** and **deep business analysis**.
 
 ---
+
+## 📜 License
+
+MIT — see the [LICENSE](LICENSE) file.
+
+---
+
+## 🌟 About Me
+
+I’m **Daniel Toluwani Adeleke**, a Data Scientist & IT professional with a passion for building **end-to-end data solutions**.
+I hold a **BSc in Computer Science** and an **MSc in Data Science & Business Analytics**. My expertise includes SQL, Python, Machine Learning, and BI reporting.
+
+📧 **Email:** [dannydave1000@gmail.com](mailto:dannydave1000@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/dannydave](https://www.linkedin.com/in/leke98)
+🌐 **Portfolio:** [dannydave.my_portfolio.github.io](https://dannydave.github.io/my_portfolio.github.io/)
+
